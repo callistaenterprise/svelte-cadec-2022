@@ -2,7 +2,7 @@
 This project was shown on Cadec 2022 on the Svelte presentation if you wanna try it out.<br/>
 This is a project setup an initialzied with Svelte Kit. <br/>
  Read everything about Svelte [`here`](https://svelte.dev/) <br/>
- And the application framework on top of svelt called [Svelte Kit](https://svelte.dev/) <br/>
+ And the application framework on top of Svelte called [Svelte Kit](https://svelte.dev/) <br/>
 
 
 ## After clone
