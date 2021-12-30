@@ -1,7 +1,8 @@
 # svelte-cadec-2022
 This project was shown on Cadec 2022 on the Svelte presentation if you wanna try it out.<br/>
-This is a project setup an initialzied with svelte kit. <br/>
- Read everything about svelte [`here`](https://svelte.dev/) <br/>
+This is a project setup an initialzied with Svelte Kit. <br/>
+ Read everything about Svelte [`here`](https://svelte.dev/) <br/>
+ And the application framework on top of svelt called [Svelte Kit](https://svelte.dev/) <br/>
 
 
 ## After clone
