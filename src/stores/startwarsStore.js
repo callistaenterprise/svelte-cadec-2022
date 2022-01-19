@@ -39,7 +39,4 @@ const fetchStarWarsPeople = async () => {
   // starwarsPeople.set(data);
 	starwarsPeople.set(loadedSwPeople);
 };
-// setTimeout(()=>{
-//   fetchPokemon(2)
-// }, 3000);
 fetchStarWarsPeople();
