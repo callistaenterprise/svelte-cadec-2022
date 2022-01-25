@@ -3,9 +3,8 @@
   import GlobalContButt from './globalCounterButton.svelte'
   import GlobalContShow from './globalCounterShow.svelte';
   import ClickCounter from './clickCounter.svelte';
-  let year = new Date().getFullYear();
-  
 </script>
+<div class="text-4xl mt-20">
 <Welcome name="Cadec"/>
 <br/>
 <p>
@@ -13,4 +12,7 @@
 </p>
 <br/>
 <GlobalContButt />
-<GlobalContShow />
+<div class="mt-10">
+<GlobalContShow/>
+</div>
+</div>

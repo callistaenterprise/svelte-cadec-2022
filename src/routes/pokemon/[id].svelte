@@ -1,5 +1,6 @@
 <script context="module">
-	// This is done serverside
+	// This is done before the mount process and can be server or clientside
+	// It also shared for all instances of this component
 	export async function load({ page }) {
 		const id = page.params.id;
 		const url = `https://pokeapi.co/api/v2/pokemon/${id}`;

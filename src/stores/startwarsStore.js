@@ -25,7 +25,6 @@ const fetchStarWarsPeople = async () => {
   });
 	const data = await res.json();
   console.log({data});
-  console.log(data.allPeople);
 	const loadedSwPeople = data.data.allPeople.people.map((data, index) => {
 		const id = index + 1;
 		return {
